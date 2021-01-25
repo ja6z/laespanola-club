@@ -1,5 +1,6 @@
 <template>
   <section class="section">
+  <h1 class="title">Complejo turístico la española</h1>
     <div class="columns is-mobile">
       <card
         title="Free"
