@@ -7,7 +7,7 @@
       />"
     </h2>
     <h3 class="subtitle is-6 has-text-grey">
-      <a href="https://github.com/anteriovieira">
+      <a href="https://facebook.com">
         Facebook
       </a>
     </h3>
